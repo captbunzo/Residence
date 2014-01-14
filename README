@@ -1,6 +1,8 @@
 Residence - Self serve area protection system
 =============================================
 
+NOTE from captbunzo: I've created a fork of Residence as of 2.6.6.6 in case there are any updates that might need made to it to properly make it work nicely on 1.7.2. When the rewrite is done I'll throw this fork away.
+
 Official links:
 Wiki: http://residencebukkitmod.wikispaces.com/
 IRC: irc://irc.esper.net/Residence
